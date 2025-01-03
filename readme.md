@@ -69,11 +69,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
   </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="40" height="40" />
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  </a>
+    
 </p>
 
 
