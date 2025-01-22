@@ -90,6 +90,5 @@
 ### 📊 GitHub Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShuvayuSarkar&show_icons=true&theme=highcontrast&hide_border=false&locale=en&layout=compact" alt="ShuvayuSarkar top languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvayuSarkar&theme=highcontrast&hide_border=false" alt="ShuvayuSarkar streak stats" />
 </p>
 
